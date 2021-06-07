@@ -1,3 +1,5 @@
 # Qt5_Intermediate_9.5_Algorithm_CustomMacros
 
-#SourceCode to be added soon
+#Under Algorithms custom Macros discussed and
+
+#SourceCode added
